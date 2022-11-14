@@ -1,0 +1,105 @@
+{
+  "name": "Utsav Singh",
+  "tagline": "Data analyst, Computer Network Enthusiast and a student",
+  "nickname": "Utsav",
+  "email": "utsav.raj.338@gmail.com",
+  "github": "https://github.com/dr-hofstadter",
+  "twitter": "https://twitter.com/Not_Erdogan",
+  "medium": "https://medium.com/@bishwajeet-parhi",
+  "linkedin": "https://www.linkedin.com/in/2002bishwajeet",
+  "instagram": "https://www.instagram.com/biswa_20p/",
+  "services": [
+    {
+      "icon": "simple-icons:wipro",
+      "title": "Software Developer",
+      "description": "I have been working with Wipro for over 8 months. Learning Cloud migration."
+    },
+    {
+      "icon": "dashicons:welcome-write-blog",
+      "title": "Story writer",
+      "description": "I have been writing technical blogs ranging from my experience with open source contribution or writing tutorials for flutter."
+    },
+    {
+      "icon": "ri:open-source-fill",
+      "title": "Marathon Runner",
+      "description": "I love contributing to open-source projects. I have infact contributed to several open-source projects."
+    }
+  ],
+  "skills": {
+    "technology": [
+      {
+        "icon":  "ri:flutter-fill",
+        "title": "Flutter"
+      },
+      {
+        "icon": "simple-icons:firebase",
+        "title": "Firebase"
+      },
+      {
+        "icon": "akar-icons:html-fill",
+        "title": "HTML"
+      },
+      {
+        "icon": "akar-icons:css-fill",
+        "title": "CSS"
+      },
+      {
+        "icon": "simple-icons:dart",
+        "title": "Dart"
+      },
+      {
+        "icon": "carbon:load-balancer-network",
+        "title": "Networks"
+      },
+
+      {
+        "icon": "bxl:aws",
+        "title": "AWS"
+      },
+      {
+        "icon": "bxl:python",
+        "title": "Python"
+      },
+      {
+        "icon": "cib:mysql",
+        "title": "MySQL"
+      }
+    ],
+    "tools": [
+      {
+        "icon": "cib:adobe-photoshop",
+        "title": "Adobe Photoshop"
+      },
+      {
+        "icon": "cib:adobe-xd",
+        "title": "Adobe XD"
+      },
+      {
+        "icon": "arcticons:git",
+        "title": "Git"
+      },
+      {
+        "icon": "cib:adobe-after-effects",
+        "title": "Adobe AE"
+      }
+
+      
+    ]
+  },
+  "experience": [
+    {
+      "title": "Project Engineer",
+      "company": "Wipro",
+      "date_joining": "May 2022",
+      "date_left": "Present",
+      "description": "Collaborated with a team of developers to build a social-media app free from hatred and negativity. A platform which redefines the way people stay online. Reach out to millions of people and never feel overexposed. Haters and trolls cannot spoil your contents or attack you for what you say. I was responsible for converting the given mockups into pixel perfect UIs and connect the APIs for those following screens.  "
+    },
+    {
+      "title": "Data Analyst Trainee",
+      "company": "Booksluva",
+      "date_joining": "May 2021",
+      "date_left": "June 2021",
+      "description": "Appwrite is a self-hosted backend-as-a-service platform that provides developers with all the core APIs required to build any application. As an open-source contributor, I have contributed in improving docs, reported bugs and issues and gave feedback on improving appwrite. I have also contributed in adding an OAuth support, writing tutorial/blog using Appwrite and Flutter and currently working on making a Cpp SDK for appwrite and adding new languages support for appwrite-snippets.  "
+    }
+  ]
+}
